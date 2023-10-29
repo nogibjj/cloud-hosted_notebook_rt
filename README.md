@@ -3,6 +3,8 @@ This notebook was initialized in Google Colab and subsequently pushed to this Gi
 
 [![Install](https://github.com/nogibjj/cloud-hosted_notebook_rt/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/cloud-hosted_notebook_rt/actions/workflows/install.yml)
 
+Colab: [LINK](https://colab.research.google.com/drive/11MKaEoMQih0Y-8OsEJV66MItPtSOYkol?usp=sharing) 
+
 ### Ingest:
 The notebook begins with data loading, offering a sneak peek into the wine dataset. This section primarily serves an introductory purpose, providing foundational context for subsequent analyses.
 
