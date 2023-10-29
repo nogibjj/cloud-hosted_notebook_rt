@@ -1,6 +1,8 @@
 ## Jupyter Notebook:
 This notebook was initialized in Google Colab and subsequently pushed to this GitHub repository.
 
+[![Install](https://github.com/nogibjj/cloud-hosted_notebook_rt/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/cloud-hosted_notebook_rt/actions/workflows/install.yml)
+
 ### Ingest:
 The notebook begins with data loading, offering a sneak peek into the wine dataset. This section primarily serves an introductory purpose, providing foundational context for subsequent analyses.
 
